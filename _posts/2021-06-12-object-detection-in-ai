@@ -1,4 +1,5 @@
-title	date
-Why Dogecoin is Great
-2021-05-10
-This is a quick blog post.
+---
+title: "Difference between object detection and image classification using Machine Learning"
+date: 2021-05-10
+---
+Simply put object detection is finding where an object or target is within a video frame or photo and image classification can tell you whether an image is something or not. Object detection is much harder and requires many more examples to properly train a neural net for this purpose.
